@@ -56,4 +56,11 @@
 2. Through an interactive dashboard, provided a summary of the various health problems that US individuals face and a detailed visualization of different mental illnesses being suffered based on age and gender.
 3. Analysis of annual patterns in mental health disorders based on states of US.
 
-## Tools and Technologies: Tableau, Data Processing, Data Visualization, MS Excel.
+## Tools and Technologies: Tableau, Data Processing, Data Visualization, Microsoft Excel.
+
+# [Project 5: HR Analytics Dashboard](https://github.com/KarthikBhat21/HR-Analytics-Dashboard)
+
+1. Project helps an Organization to improve employee performance retentation by creating HR Analytics dashboard.
+2. This Projects Identified key factors to reduce attrition , Improved the hiring process, Improved employee Experience, Made Workforce More Productive, Gained Employee trust.
+
+## Tools and Technologies: PowerBI, Microsoft Excel. 
