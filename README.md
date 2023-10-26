@@ -63,4 +63,4 @@
 1. Project helps an Organization to improve employee performance retentation by creating HR Analytics dashboard.
 2. This Projects Identified key factors to reduce attrition , Improved the hiring process, Improved employee Experience, Made Workforce More Productive, Gained Employee trust.
 
-## Tools and Technologies: PowerBI, Microsoft Excel. 
+## Tools and Technologies: Power BI, Microsoft Excel. 
