@@ -40,8 +40,19 @@
 ## Tools and Technologies: Python, Machine Learning, Sentiment Analysis, NLP, MLOps, CI/CD, DVC, Amazon S3, Docker, Kubernetes, Jenkins, Git, GitHub Actions, REST API.
 
 
+# [Project 3: Sentiment-Analysis-of-Amazon-reviews](https://github.com/KarthikBhat21/Sentiment-Analysis-of-Amazon-reviews)
 
-# [Project 3: Online Streaming Movie Data Analysis](https://github.com/KarthikBhat21/Online-Streaming-Movie-Data-Analysis)
+1. In this project, the sentiment analysis is performed on Amazon reviews using Python using two different techniques: (a) VADER (Valence Aware Dictionary and sEntiment Reasoner) - Bag of words approach. (b) Roberta Pretrained Model from HuggingFace.
+
+2. Simple EDA is performed on the dataset to understand the dataset.
+
+3. Next, Sentiment Analysis on the dataset is performed using VADER and the pre-trained transformer model 'Roberta'. Finally. the results are compared.
+
+## Tools and Technologies: Python programming, Data Analysis, NLP, NLTK, Sentiment Analysis, Transfer learning, HuggingFace.
+
+
+
+# [Project 4: Online Streaming Movie Data Analysis](https://github.com/KarthikBhat21/Online-Streaming-Movie-Data-Analysis)
 
 1. Created a real-time TMDB data pipeline utilizing Python to collect data and streamline it with Kafka producer.
 2. Connected Apache Kafka to MongoDB and performed dataset analysis and visualization using Python (Jupyter Notebook).
@@ -50,7 +61,7 @@
 
 
 
-# [Project 4: US Mental Health Disorder Visualization](https://github.com/KarthikBhat21/US-Mental-Health-Disorder-Visualization)
+# [Project 5: US Mental Health Disorder Visualization](https://github.com/KarthikBhat21/US-Mental-Health-Disorder-Visualization)
 
 1. Performed Exploratory Analysis of the dataset to understand the key points that need to be highlighted.
 2. Through an interactive dashboard, provided a summary of the various health problems that US individuals face and a detailed visualization of different mental illnesses being suffered based on age and gender.
@@ -58,7 +69,7 @@
 
 ## Tools and Technologies: Tableau, Data Processing, Data Visualization, Microsoft Excel.
 
-# [Project 5: HR Analytics Dashboard](https://github.com/KarthikBhat21/HR-Analytics-Dashboard)
+# [Project 6: HR Analytics Dashboard](https://github.com/KarthikBhat21/HR-Analytics-Dashboard)
 
 1. Project helps an Organization to improve employee performance retentation by creating HR Analytics dashboard.
 2. This Projects Identified key factors to reduce attrition , Improved the hiring process, Improved employee Experience, Made Workforce More Productive, Gained Employee trust.
